@@ -16,4 +16,6 @@ Curiosity has been curious during these years and has taken many pictures of the
 
   1. RoverSNAP will start downloading the pcitures one by one per date listed in the text file.
 
-  1. Be patient, pictures from Mars are big, grab a cup of coffee and wait until RoverSNAP gets the pictures for you, it will show you its progress on every step.   
+  1. Be patient, pictures from Mars are big, grab a cup of coffee and wait until RoverSNAP gets the pictures for you, it will show you its progress on every step. 
+  
+  1. In case the API url changes, it can be updated in appsettings.json
